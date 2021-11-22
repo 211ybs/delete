@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://211ybs.github.io/</id>
     <title>211ybs</title>
-    <updated>2021-11-22T08:00:52.683Z</updated>
+    <updated>2021-11-22T08:11:21.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://211ybs.github.io/"/>
     <link rel="self" href="https://211ybs.github.io/atom.xml"/>
@@ -10,4 +10,23 @@
     <logo>https://211ybs.github.io/images/avatar.png</logo>
     <icon>https://211ybs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 211ybs</rights>
+    <entry>
+        <title type="html"><![CDATA[教程]]></title>
+        <id>https://211ybs.github.io/post/jiao-cheng/</id>
+        <link href="https://211ybs.github.io/post/jiao-cheng/">
+        </link>
+        <updated>2021-11-22T08:01:39.000Z</updated>
+        <content type="html"><![CDATA[<p>1.下载软件 Gridea<br>
+2.点击 <strong>远程</strong> 按钮</p>
+<ol>
+<li>在 <strong>域名</strong> 中输入 <strong>211ybs.github.io/</strong></li>
+<li>在 <strong>仓库名称</strong> 中输入 <strong>211ybs.github.io</strong></li>
+<li>在<strong>分支</strong>中输入<strong>main</strong></li>
+<li>在<strong>仓库用户名</strong> 中输入 <strong>211ybs</strong></li>
+<li>在<strong>邮箱</strong> 中输入 <strong>violet_xianren@qq.com</strong> （这是我自己的）</li>
+<li>特别注意 <strong>令牌</strong> 随时在变化（周期为30天）所以我会每月跟新， 这个东西最好不要给别人看 <strong>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</strong>。<br>
+2021/11/22 DHY</li>
+</ol>
+]]></content>
+    </entry>
 </feed>
