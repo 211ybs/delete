@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://211ybs.github.io/</id>
-    <title>violet</title>
-    <updated>2021-11-22T07:57:38.712Z</updated>
+    <title>211ybs</title>
+    <updated>2021-11-22T07:58:18.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://211ybs.github.io/"/>
     <link rel="self" href="https://211ybs.github.io/atom.xml"/>
-    <subtitle>This is my tenet.</subtitle>
+    <subtitle>不散的人</subtitle>
     <logo>https://211ybs.github.io/images/avatar.png</logo>
     <icon>https://211ybs.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, violet</rights>
+    <rights>All rights reserved 2021, 211ybs</rights>
 </feed>
