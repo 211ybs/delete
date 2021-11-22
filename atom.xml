@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://evrgardenviolet.github.io/</id>
+    <id>https://211ybs.github.io/</id>
     <title>violet</title>
-    <updated>2021-11-22T03:38:48.358Z</updated>
+    <updated>2021-11-22T06:34:58.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://evrgardenviolet.github.io/"/>
-    <link rel="self" href="https://evrgardenviolet.github.io/atom.xml"/>
+    <link rel="alternate" href="https://211ybs.github.io/"/>
+    <link rel="self" href="https://211ybs.github.io/atom.xml"/>
     <subtitle>This is my tenet.</subtitle>
-    <logo>https://evrgardenviolet.github.io/images/avatar.png</logo>
-    <icon>https://evrgardenviolet.github.io/favicon.ico</icon>
+    <logo>https://211ybs.github.io/images/avatar.png</logo>
+    <icon>https://211ybs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, violet</rights>
     <entry>
         <title type="html"><![CDATA[闲人の题解P7919]]></title>
-        <id>https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p7919/</id>
-        <link href="https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p7919/">
+        <id>https://211ybs.github.io/post/xian-ren-noti-jie-p7919/</id>
+        <link href="https://211ybs.github.io/post/xian-ren-noti-jie-p7919/">
         </link>
         <updated>2021-11-20T03:25:49.000Z</updated>
         <content type="html"><![CDATA[<h2 id="step_1-题目简述">Step_1 题目简述</h2>
@@ -147,8 +147,8 @@ int main(){
     </entry>
     <entry>
         <title type="html"><![CDATA[闲人の题解 P7878]]></title>
-        <id>https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p7878/</id>
-        <link href="https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p7878/">
+        <id>https://211ybs.github.io/post/xian-ren-noti-jie-p7878/</id>
+        <link href="https://211ybs.github.io/post/xian-ren-noti-jie-p7878/">
         </link>
         <updated>2021-11-20T03:23:16.000Z</updated>
         <content type="html"><![CDATA[<h2 id="step1题目简化粗略分析">Step1：题目简化&amp;粗略分析</h2>
@@ -261,8 +261,8 @@ int main()
     </entry>
     <entry>
         <title type="html"><![CDATA[闲人の题解 P7814]]></title>
-        <id>https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p7814/</id>
-        <link href="https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p7814/">
+        <id>https://211ybs.github.io/post/xian-ren-noti-jie-p7814/</id>
+        <link href="https://211ybs.github.io/post/xian-ren-noti-jie-p7814/">
         </link>
         <updated>2021-11-20T03:22:33.000Z</updated>
         <content type="html"><![CDATA[<h2 id="p7814">P7814</h2>
@@ -382,8 +382,8 @@ int main()
     </entry>
     <entry>
         <title type="html"><![CDATA[lxxy题解]]></title>
-        <id>https://evrgardenviolet.github.io/post/lxxy-ti-jie/</id>
-        <link href="https://evrgardenviolet.github.io/post/lxxy-ti-jie/">
+        <id>https://211ybs.github.io/post/lxxy-ti-jie/</id>
+        <link href="https://211ybs.github.io/post/lxxy-ti-jie/">
         </link>
         <updated>2021-11-20T03:21:30.000Z</updated>
         <content type="html"><![CDATA[<p>大家好，我是搬题人闲人，这里，来讲一下这道题的正解</p>
@@ -461,8 +461,8 @@ int main()
     </entry>
     <entry>
         <title type="html"><![CDATA[闲人の题解 P1834]]></title>
-        <id>https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p1834/</id>
-        <link href="https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p1834/">
+        <id>https://211ybs.github.io/post/xian-ren-noti-jie-p1834/</id>
+        <link href="https://211ybs.github.io/post/xian-ren-noti-jie-p1834/">
         </link>
         <updated>2021-11-20T03:20:11.000Z</updated>
         <content type="html"><![CDATA[<h2 id="题目描述">题目描述</h2>
@@ -674,8 +674,8 @@ int main()
     </entry>
     <entry>
         <title type="html"><![CDATA[闲人の题解 P7522]]></title>
-        <id>https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p7522/</id>
-        <link href="https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p7522/">
+        <id>https://211ybs.github.io/post/xian-ren-noti-jie-p7522/</id>
+        <link href="https://211ybs.github.io/post/xian-ren-noti-jie-p7522/">
         </link>
         <updated>2021-11-20T03:18:38.000Z</updated>
         <content type="html"><![CDATA[<h1 id="主要是一个巧妙的思路">主要是一个巧妙的思路</h1>
@@ -789,8 +789,8 @@ int main(){
     </entry>
     <entry>
         <title type="html"><![CDATA[闲人の题解 P3866]]></title>
-        <id>https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p3866/</id>
-        <link href="https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p3866/">
+        <id>https://211ybs.github.io/post/xian-ren-noti-jie-p3866/</id>
+        <link href="https://211ybs.github.io/post/xian-ren-noti-jie-p3866/">
         </link>
         <updated>2021-11-20T03:17:41.000Z</updated>
         <content type="html"><![CDATA[<p>又是一道网络流的建图题<br>
@@ -942,8 +942,8 @@ int main() {
     </entry>
     <entry>
         <title type="html"><![CDATA[闲人の题解 P2065]]></title>
-        <id>https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p2065/</id>
-        <link href="https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p2065/">
+        <id>https://211ybs.github.io/post/xian-ren-noti-jie-p2065/</id>
+        <link href="https://211ybs.github.io/post/xian-ren-noti-jie-p2065/">
         </link>
         <updated>2021-11-20T03:16:36.000Z</updated>
         <content type="html"><![CDATA[<h1 id="一道网络流的题重在建图">一道网络流的题，重在建图</h1>
@@ -1162,8 +1162,8 @@ int main(){
     </entry>
     <entry>
         <title type="html"><![CDATA[闲人の题解 P7441]]></title>
-        <id>https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p7441/</id>
-        <link href="https://evrgardenviolet.github.io/post/xian-ren-noti-jie-p7441/">
+        <id>https://211ybs.github.io/post/xian-ren-noti-jie-p7441/</id>
+        <link href="https://211ybs.github.io/post/xian-ren-noti-jie-p7441/">
         </link>
         <updated>2021-11-20T03:14:25.000Z</updated>
         <summary type="html"><![CDATA[<p><s>说实话，当我看到这道题时还有点懵。</s><br>
@@ -1394,8 +1394,8 @@ int main(){
     </entry>
     <entry>
         <title type="html"><![CDATA[树链剖分]]></title>
-        <id>https://evrgardenviolet.github.io/post/shu-lian-pou-fen/</id>
-        <link href="https://evrgardenviolet.github.io/post/shu-lian-pou-fen/">
+        <id>https://211ybs.github.io/post/shu-lian-pou-fen/</id>
+        <link href="https://211ybs.github.io/post/shu-lian-pou-fen/">
         </link>
         <updated>2021-11-20T02:42:00.000Z</updated>
         <content type="html"><![CDATA[<h1 id="树链剖分">树链剖分</h1>
